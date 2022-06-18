@@ -1,9 +1,4 @@
-/*
- * @Date: 2022-01-05 18:17:47
- * @LastEditors: liyf
- * @LastEditTime: 2022-01-06 15:06:33
- * @FilePath: /design/src/singleton.ts
- */
+
 class Singleton {
   private static instance:Singleton;
   private constructor() {}
